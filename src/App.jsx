@@ -96,7 +96,7 @@ function App() {
 
   return (
     <>
-      <h1>Notes</h1>
+      <h1>Notas</h1>
       <Button
         onClick={() => setShowAll(!showAll)}
         text={showAll ? "important" : "all"}
